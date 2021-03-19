@@ -1,0 +1,12 @@
+2021/03/08-16:43:30.728 4398 Reusing MANIFEST C:\Users\USER\AppData\Local\Programs\Python\Python37\Scripts\WhatsAppMessage\User_Data\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/08-16:43:30.728 4398 Recovering log #7
+2021/03/08-16:43:30.786 4398 Reusing old log C:\Users\USER\AppData\Local\Programs\Python\Python37\Scripts\WhatsAppMessage\User_Data\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000007.log 
+2021/03/08-16:43:33.461 43d4 Level-0 table #12: started
+2021/03/08-16:43:33.499 43d4 Level-0 table #12: 1281544 bytes OK
+2021/03/08-16:43:33.501 43d4 Delete type=0 #7
+2021/03/08-16:43:34.977 1640 Compacting 1@1 + 1@2 files
+2021/03/08-16:43:35.033 1640 Generated table #13@1: 26069 keys, 1157615 bytes
+2021/03/08-16:43:35.033 1640 Compacted 1@1 + 1@2 files => 1157615 bytes
+2021/03/08-16:43:35.034 1640 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/03/08-16:43:35.035 1640 Delete type=2 #9
+2021/03/08-16:43:35.035 1640 Delete type=2 #12
